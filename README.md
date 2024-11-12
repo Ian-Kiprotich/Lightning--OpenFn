@@ -4,7 +4,7 @@ Lightning ⚡ (aka "OpenFn v2") is a workflow automation platform that's used to
 automate critical business processes and integrate information systems. From
 last-mile services to national-level reporting, it boosts efficiency &
 effectiveness while enabling secure, stable, scalable interoperability and data
-integration at all levels.
+integration at all levels
 
 **Use it online at [app.openfn.org](https://app.openfn.org)**
 
